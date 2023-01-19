@@ -10,8 +10,18 @@ h1 {
   font-size: 3vw;
 }
 
+h2{
+  font-size: 2vw;
+}
+
 .container {
   margin: 0px 3em 0px 3em;
+}
+p{
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-size: 1.5vw;
 }
 
 .sound {
@@ -23,7 +33,15 @@ h1 {
   display: inline-block;
   width: 20%;
 }
-
+.play{
+  text-align: center;
+  border: 5px solid #ccb03b;
+  border-radius: 20px;
+  background: #6f08ab;
+  margin: 2px;
+  display: inline-block;
+  width: 20%;
+}
 img {
   width: 20%;
   height: auto;
