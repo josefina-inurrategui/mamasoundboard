@@ -1,0 +1,13 @@
+
+{
+    "name": "mamaSoundBoard",
+    "version": "1.0.0",
+    "description": "eso",
+    "scripts": {
+      "start": "serve"
+    },
+    "dependencies": {
+      "serve": "^10.0.1"
+    },
+    "author": "Joaquin Iñurrategui"
+  }
